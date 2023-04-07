@@ -1,4 +1,3 @@
 # calculator
 
-simple calculator webiste
-You can perform addition,subtraction,multiplication,division
+simple calculator webiste using this you can perform addition,subtraction,multiplication,division
